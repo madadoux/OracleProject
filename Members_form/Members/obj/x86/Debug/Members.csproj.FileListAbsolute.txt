@@ -1,0 +1,9 @@
+E:\MADA\term 2\database\Members_form\Members\bin\Debug\Members.exe
+E:\MADA\term 2\database\Members_form\Members\bin\Debug\Members.pdb
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.csprojResolveAssemblyReference.cache
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.Form1.resources
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.Properties.Resources.resources
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.csproj.GenerateResource.Cache
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.exe
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.pdb
+E:\MADA\term 2\database\Members_form\Members\obj\x86\Debug\Members.Form2.resources
